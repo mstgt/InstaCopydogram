@@ -1,0 +1,9 @@
+<%= form_for [@user, @post] do |p| %>
+    <%= p.label :id %>:
+    <%= p.text_field :id %><br />
+  
+    <%= p.label :image_url %>:
+    <%= p.text_field :image_url %><br />
+  
+    <%= p.submit %>
+  <% end %>
