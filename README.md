@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* This is my Instagram copycat app
+* This is an Instagram copycat app done by Mustafa
